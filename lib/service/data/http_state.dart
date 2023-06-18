@@ -1,0 +1,4 @@
+enum HttpState {
+  success,
+  fail,
+}
